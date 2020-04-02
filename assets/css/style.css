@@ -328,7 +328,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 #hero:before {
   content: "";
-  background: rgba(112, 185, 176, 0.4);
+  background: rgba(112, 185, 176, 0.75);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -405,6 +405,16 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
+#hero1 {
+  width: 100%;
+  height: 75vh;
+  background: url("../img/Malicki1.jpg") top center;
+  background-size: cover;
+  position: relative;
+  margin-bottom: -80px;
+}
+
+
 section {
   padding: 60px 0;
 }
