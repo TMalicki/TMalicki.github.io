@@ -320,7 +320,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 #hero {
   width: 100%;
   height: 75vh;
-  background: url("../img/hero-background.jpg") top center;
+  background: url("../img/Malicki.jpg") top center;
   background-size: cover;
   position: relative;
   margin-bottom: -80px;
@@ -328,7 +328,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 #hero:before {
   content: "";
-  background: rgba(112, 185, 176, 0.85);
+  background: rgba(112, 185, 176, 0.4);
   position: absolute;
   bottom: 0;
   top: 0;
