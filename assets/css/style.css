@@ -328,7 +328,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 #hero:before {
   content: "";
-  background: rgba(112, 185, 176, 0.75);
+  background: rgba(112, 185, 176, 0.9);
   position: absolute;
   bottom: 0;
   top: 0;
