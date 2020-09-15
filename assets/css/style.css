@@ -592,7 +592,7 @@ section {
   position: absolute;
   transition: all .3s linear;
   text-align: center;
-  top: 80%;
+  top: 120%;
   left: 0;
   right: 0;
 }
@@ -618,7 +618,7 @@ section {
 
 .portfolio .portfolio-item:hover .portfolio-info {
   opacity: 1;
-  top: calc(70% - 100px);
+  top: calc(50% - 50px);
 }
 
 /*--------------------------------------------------------------
