@@ -592,7 +592,7 @@ section {
   position: absolute;
   transition: all .3s linear;
   text-align: center;
-  bottom: 10%;
+  top: 10%;
   left: 0;
   right: 0;
 }
